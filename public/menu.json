@@ -1,0 +1,20 @@
+[
+  {
+    "key" : "1",
+    "title" : "HOME",
+    "path" : "/",
+    "pathAs" : "/"
+  },
+  {
+    "key" : "2",
+    "title" : "ABOUT",
+    "path" : "/about",
+    "pathAs" : "/about"
+  },
+  {
+    "key" : "3",
+    "title" : "CONTACT",
+    "path" : "/contactus",
+    "pathAs" : "/contactus"
+  }
+]
